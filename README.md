@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/eliasinacio/order-summary-component/blob/27ec2904ee567ef313ac0f135c7832105046e3d9/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Eliasinacio Solutions](https://www.frontendmentor.io/profile/eliasinacio/solutions)
+- Live Site URL: [GitHub Pages](https://eliasinacio.github.io/order-summary-component/index.html)
 
 ## My process
 
